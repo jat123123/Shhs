@@ -13,7 +13,7 @@ package.domain = com.yashas.app
 source.dir = .
 
 # (list) Source files to include (let empty to include all the files)
-source.include_exts = py,png,jpg,kv,atlas,gif
+source.include_exts = py,png,jpg,kv,atlas,gif,ttf
 
 # (list) List of inclusions using pattern matching
 #source.include_patterns = assets/*,images/*.png
